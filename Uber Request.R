@@ -1,3 +1,12 @@
+#As an analyst, you decide to address the problem Uber is facing - driver cancellation and non-availability of cars leading to loss of 
+#potential revenue. 
+
+#Business Objectives
+#The aim of analysis is to identify the root cause of the problem (i.e. cancellation and non-availability of cars) and recommend ways to
+#improve the situation. As a result of your analysis, you should be able to present to the client the root cause(s) and possible hypotheses 
+#of the problem(s) and recommend ways to improve them.  
+
+
 
 dataset<- Uber.request.data <- read.csv("Uber request data.csv")
 
